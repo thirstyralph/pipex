@@ -6,11 +6,13 @@
 /*   By: ranavarr <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/28 23:45:40 by ranavarr          #+#    #+#             */
-/*   Updated: 2025/10/28 23:58:09 by ranavarr         ###   ########.fr       */
+/*   Updated: 2025/11/01 16:49:06 by ranavarr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef PIPEX_H
-#define PIPEX_H
+# define PIPEX_H
 
+//pipex.h
+int	pipex(int argc, char **argv);
 #endif
